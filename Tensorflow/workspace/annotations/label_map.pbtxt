@@ -1,8 +1,20 @@
 item { 
-	name:'Mask'
+	name:'ayee_yo'
 	id:1
 }
 item { 
-	name:'NoMask'
+	name:'yes'
 	id:2
+}
+item { 
+	name:'no'
+	id:3
+}
+item { 
+	name:'shocked'
+	id:4
+}
+item { 
+	name:'stop'
+	id:5
 }
